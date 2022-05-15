@@ -3,12 +3,25 @@
     <title>Plum  Nelly Garden</title>
     <link href="https://plumnelly.garden/feed.xml" rel="self" />
     <link href="https://plumnelly.garden" />
-    <updated>2022-05-15T13:03:37-04:00</updated>
+    <updated>2022-05-15T13:10:32-04:00</updated>
     <author>
         <name>Gene Robinson</name>
     </author>
     <id>https://plumnelly.garden</id>
 
+    <entry>
+        <title>Hello I&#x27;m COVID positive</title>
+        <author>
+            <name>Gene Robinson</name>
+        </author>
+        <link href="https://plumnelly.garden/hello-im-covid-positive/"/>
+        <id>https://plumnelly.garden/hello-im-covid-positive/</id>
+            <category term="news"/>
+
+        <updated>2022-05-15T13:10:32-04:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Welcome Bellevue garden walk</title>
         <author>
