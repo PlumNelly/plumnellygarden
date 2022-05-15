@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://plumnelly.garden/sitemap.xml
